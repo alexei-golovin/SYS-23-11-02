@@ -67,6 +67,9 @@
 
 ### Ответ на задание 4
 
+![](https://github.com/alexei-golovin/SYS-23-11-02/blob/main/files/401.jpg)
+![](https://github.com/alexei-golovin/SYS-23-11-02/blob/main/files/402.jpg)
+
 ---
 
 ## Дополнительные задания (со звёздочкой*)
