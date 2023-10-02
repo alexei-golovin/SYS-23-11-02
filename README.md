@@ -55,6 +55,8 @@
 
 ### Ответ на задание 3
 
+![](https://github.com/alexei-golovin/SYS-23-11-02/blob/main/files/301.jpg)
+
 ---
 
 ### Задание 4. Запись данных в Redis
