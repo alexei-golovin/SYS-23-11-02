@@ -43,6 +43,8 @@
 
 ### Ответ на задание 2
 
+![](https://github.com/alexei-golovin/SYS-23-11-02/blob/main/files/201.jpg)
+
 ---
 
 ### Задание 3. Удаление по TTL в Memcached
